@@ -1,5 +1,5 @@
 # 💫 About Me:
-Manohar Chinthala is a B.Tech student at VNIT Nagpur with a strong inclination toward software development and data-driven problem solving. Although from a Metallurgical background, he has built solid expertise in Computer Science domains including Data Structures & Algorithms, Machine Learning, and Full-Stack Development.<br><br>He has developed impactful projects such as a Sales Analytics Dashboard with ML models, a Breast Cancer Detection system achieving 97.3% accuracy, and a MERN-based full-stack application with authentication and REST APIs. Proficient in C++, Python, JavaScript, and tools like Power BI and MySQL, he combines analytical thinking with practical implementation skills.<br><br>With 250+ problems solved on LeetCode, he demonstrates strong problem-solving ability and a commitment to continuous learning. He is seeking opportunities to apply his skills in software development and data-driven roles while growing in a dynamic tech environment.
+Manohar Chinthala is a B.Tech student at VNIT Nagpur with a strong inclination toward software development and data-driven problem solving. Although from a Metallurgical background, I has built solid expertise in Computer Science domains including Data Structures & Algorithms, Machine Learning, and Full-Stack Development.<br><br>I has developed impactful projects such as a Sales Analytics Dashboard with ML models, a Breast Cancer Detection system achieving 97.3% accuracy, and a MERN-based full-stack application with authentication and REST APIs. Proficient in C++, Python, JavaScript, and tools like Power BI and MySQL, I combine analytical thinking with practical implementation skills.<br><br>With 250+ problems solved on LeetCode, I demonstrate strong problem-solving ability and a commitment to continuous learning. I am seeking opportunities to apply his skills in software development and data-driven roles while growing in a dynamic tech environment.
 
 
 ## 🌐 Socials:
@@ -8,26 +8,11 @@ Manohar Chinthala is a B.Tech student at VNIT Nagpur with a strong inclination t
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Manoharvnit&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Manoharvnit&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Manoharvnit&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Manoharvnit&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Manoharvnit&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Manoharvnit&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Manoharvnit&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!--
-**Manoharvnit/Manoharvnit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
