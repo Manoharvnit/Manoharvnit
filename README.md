@@ -1,18 +1,194 @@
-# 💫 About Me:
-Manohar Chinthala is a B.Tech student at VNIT Nagpur with a strong inclination toward software development and data-driven problem solving. Although from a Metallurgical background, I has built solid expertise in Computer Science domains including Data Structures & Algorithms, Machine Learning, and Full-Stack Development.<br><br>I has developed impactful projects such as a Sales Analytics Dashboard with ML models, a Breast Cancer Detection system achieving 97.3% accuracy, and a MERN-based full-stack application with authentication and REST APIs. Proficient in C++, Python, JavaScript, and tools like Power BI and MySQL, I combine analytical thinking with practical implementation skills.<br><br>With 250+ problems solved on LeetCode, I demonstrate strong problem-solving ability and a commitment to continuous learning. I am seeking opportunities to apply his skills in software development and data-driven roles while growing in a dynamic tech environment.
+<div align="center">
 
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Chinthala%20Manohar&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Building%20things%20%7C%20Breaking%20things%20%7C%20Learning%20everything&descAlignY=58&descSize=18&animation=fadeIn" />
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/manoharch202) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chinthala-manohar-ab02b9388/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manumm070@gmail.com) 
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=B.Tech+Student+%40+VNIT+Nagpur;Full-Stack+Developer+%F0%9F%9A%80;ML+%26+Data+Science+Enthusiast+%F0%9F%A4%96;250%2B+LeetCode+Problems+Solved+%F0%9F%94%A5;Always+Building%2C+Always+Curious+%E2%9C%A8" alt="Typing SVG" />
+</a>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Manoharvnit&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Manoharvnit&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Manoharvnit&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/><br/>
+
+<!-- Profile Views & Followers -->
+<img src="https://komarev.com/ghpvc/?username=Manoharvnit&label=Profile%20Views&color=7c3aed&style=flat-square" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/Manoharvnit?label=Followers&style=flat-square&color=7c3aed" />
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Manoharvnit&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+```python
+class ManoharChinthala:
+    name       = "Chinthala Manohar"
+    university = "VNIT Nagpur"
+    degree     = "B.Tech (Metallurgical Engineering)"
+    location   = "Nagpur, Maharashtra, India 🇮🇳"
+    
+    skills     = ["Full-Stack Dev", "Machine Learning", "Data Structures & Algorithms"]
+    languages  = ["C", "C++", "Python", "JavaScript"]
+    
+    currently  = "Building impactful projects & grinding LeetCode"
+    looking_for = "Opportunities in Software Development & Data-Driven Roles"
+    
+    fun_fact   = "Metallurgist by degree, Developer by passion 🔥"
+```
+
+- 🎓 B.Tech student at **VNIT Nagpur** with expertise in **CS domains** despite a Metallurgical background
+- 💡 Strong foundation in **Data Structures & Algorithms**, **Machine Learning**, and **Full-Stack Development**
+- 🏆 **250+ problems** solved on LeetCode — consistency is key
+- 🌱 Currently exploring **advanced ML systems** and **scalable backend architecture**
+- 🤝 Open to collaborating on **open-source projects** and **innovative ideas**
+- 📬 Reach me at: **manumm070@gmail.com**
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+</p>
+
+### 🌐 Frontend & Backend
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+### 🤖 ML & Data Science
+<p>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
+
+### ☁️ Deployment & Tools
+<p>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+## 🏗️ Featured Projects
+
+### 📊 Sales Analytics Dashboard
+> **Full-Stack · ML-Powered · Real-Time Insights**
+
+- Built an end-to-end analytics dashboard integrating **ML models** for sales forecasting
+- Combines **Python (Pandas, Scikit-learn)** backend with a dynamic frontend for interactive visualizations
+- Delivered actionable insights via **Power BI** and custom charts
+- **Stack:** Python · Scikit-learn · Power BI · MySQL · JavaScript
+
+---
+
+### 🩺 Breast Cancer Detection System
+> **Machine Learning · Healthcare · 97.3% Accuracy**
+
+- Developed a classification model achieving **97.3% accuracy** using ensemble ML techniques
+- Applied **feature engineering**, **cross-validation**, and **hyperparameter tuning** for peak performance
+- Visualized model insights using **Matplotlib** and **Seaborn**
+- **Stack:** Python · Scikit-learn · Pandas · NumPy · Matplotlib
+
+---
+
+### 🌐 MERN Full-Stack Application
+> **Full-Stack · Authentication · REST APIs**
+
+- Built a complete MERN-stack application with **JWT authentication** and robust **REST APIs**
+- Implemented secure user sessions, protected routes, and full CRUD operations
+- Deployed on **Vercel** (frontend) and **Render** (backend) for seamless production delivery
+- **Stack:** MongoDB · Express.js · React · Node.js · JWT
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Manoharvnit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Manoharvnit&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manoharvnit&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Manoharvnit&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1" />
+</div>
+
+---
+
+## 🧠 DSA & Competitive Programming
+
+<div align="center">
+
+| Platform | Status |
+|----------|--------|
+| 🟡 **LeetCode** | 250+ Problems Solved |
+| 💡 **Focus Areas** | Arrays, Trees, Graphs, DP |
+| 🎯 **Approach** | Consistency over intensity |
+
+</div>
+
+> *"The best way to get better at problem solving is to solve problems every single day."*
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chinthala-manohar)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manumm070@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manoharvnit)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+
+</div>
